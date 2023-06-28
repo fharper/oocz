@@ -1,0 +1,27 @@
+@font-face { font-family:'CenturyStd-Bold'; src:url('../fonts/CenturyStd-Bold.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BoldCondensed'; src:url('../fonts/CenturyStd-BoldCondensed.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BoldCondensedIt'; src:url('../fonts/CenturyStd-BoldCondensedIt.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BoldItalic'; src:url('../fonts/CenturyStd-BoldItalic.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-Book'; src:url('../fonts/CenturyStd-Book.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BookCondensed'; src:url('../fonts/CenturyStd-BookCondensed.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BookCondensedIt'; src:url('../fonts/CenturyStd-BookCondensedIt.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-BookItalic'; src:url('../fonts/CenturyStd-BookItalic.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-Light'; src:url('../fonts/CenturyStd-Light.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-LightCondensed'; src:url('../fonts/CenturyStd-LightCondensed.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-LightCondensedIt'; src:url('../fonts/CenturyStd-LightCondensedIt.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-LightItalic'; src:url('../fonts/CenturyStd-LightItalic.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-Ultra'; src:url('../fonts/CenturyStd-Ultra.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-UltraCondensed'; src:url('../fonts/CenturyStd-UltraCondensed.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-UltraCondensedIt'; src:url('../fonts/CenturyStd-UltraCondensedIt.otf') format('truetype'); }
+@font-face { font-family:'CenturyStd-UltraItalic'; src:url('../fonts/CenturyStd-UltraItalic.otf') format('truetype'); }
+
+@font-face { font-family:'GrotesqueMTStd'; src:url('../fonts/GrotesqueMTStd.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-Black'; src:url('../fonts/GrotesqueMTStd-Black.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-Bold'; src:url('../fonts/GrotesqueMTStd-Bold.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-BoldExtended'; src:url('../fonts/GrotesqueMTStd-BoldExtended.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-Condensed'; src:url('../fonts/GrotesqueMTStd-Condensed.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-ExtraCond'; src:url('../fonts/GrotesqueMTStd-ExtraCond.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-Italic'; src:url('../fonts/GrotesqueMTStd-Italic.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-Light'; src:url('../fonts/GrotesqueMTStd-Light.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-LightCond'; src:url('../fonts/GrotesqueMTStd-LightCond.otf') format('truetype'); }
+@font-face { font-family:'GrotesqueMTStd-LightItalic'; src:url('../fonts/GrotesqueMTStd-LightItalic.otf') format('truetype'); }
